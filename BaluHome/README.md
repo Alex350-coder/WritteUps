@@ -29,9 +29,9 @@ Para reproducir este laboratorio, se recomienda contar con los siguientes elemen
   * Python 3 (servidor HTTP temporal).
 
 ### Enlaces de Documentación
-* [Guía de Explotación Detallada (Español)](file:///c:/Users/ander/OneDrive/Documentos/0-0-PLAN%20INTEGRAL%20DE%20APRENDIZAJE/WritteUps/red_team/Dockerlabs/BaluHome/BaluHome.md)
-* [Guía de Explotación Detallada (Inglés)](file:///c:/Users/ander/OneDrive/Documentos/0-0-PLAN%20INTEGRAL%20DE%20APRENDIZAJE/WritteUps/red_team/Dockerlabs/BaluHome/BaluHome-En.md)
-* [Guía de Inicio Rápido / Comandos Clave (Bilingüe)](file:///c:/Users/ander/OneDrive/Documentos/0-0-PLAN%20INTEGRAL%20DE%20APRENDIZAJE/WritteUps/red_team/Dockerlabs/BaluHome/QuickStart.md)
+* [Guía de Explotación Detallada (Español)](BaluHome.md)
+* [Guía de Explotación Detallada (Inglés)](BaluHome-En.md)
+* [Guía de Inicio Rápido / Comandos Clave (Bilingüe)](QuickStart.md)
 
 ---
 
@@ -59,6 +59,6 @@ To replicate this laboratory environment, the following are recommended:
   * Python 3 (utility HTTP server).
 
 ### Documentation Links
-* [Detailed Exploitation Guide (English)](file:///c:/Users/ander/OneDrive/Documentos/0-0-PLAN%20INTEGRAL%20DE%20APRENDIZAJE/WritteUps/red_team/Dockerlabs/BaluHome/BaluHome-En.md)
-* [Detailed Exploitation Guide (Spanish)](file:///c:/Users/ander/OneDrive/Documentos/0-0-PLAN%20INTEGRAL%20DE%20APRENDIZAJE/WritteUps/red_team/Dockerlabs/BaluHome/BaluHome.md)
-* [QuickStart Guide / Essential Commands (Bilingual)](file:///c:/Users/ander/OneDrive/Documentos/0-0-PLAN%20INTEGRAL%20DE%20APRENDIZAJE/WritteUps/red_team/Dockerlabs/BaluHome/QuickStart.md)
+* [Detailed Exploitation Guide (English)](BaluHome-En.md)
+* [Detailed Exploitation Guide (Spanish)](BaluHome.md)
+* [QuickStart Guide / Essential Commands (Bilingual)](QuickStart.md)
